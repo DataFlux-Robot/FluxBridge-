@@ -24,39 +24,25 @@ The core communication technology will remain private for now, with a roadmap to
 ---
 
 ## 特性 | Features
-- 协议自动转换（多种电机/传感器协议 → R³标准接口）  
-- 热插拔支持，模块无需断电即可替换  
-- 低延迟通信与高可靠性  
-- 与 R³ 架构其他组件无缝集成  
-
-- Automatic protocol conversion (motors, sensors → R³ standard interface)  
-- Hot-plug support (replace modules without power-off)  
-- Low-latency, reliable communication  
-- Native integration with other R³ components  
+- 协议自动转换（多种电机/传感器协议 → R³标准接口）  / Automatic protocol conversion (motors, sensors → R³ standard interface)  
+- 热插拔支持，模块无需断电即可替换  / Hot-plug support (replace modules without power-off)  
+- 低延迟通信与高可靠性  / Low-latency, reliable communication  
+- 与 R³ 架构其他组件无缝集成  / Native integration with other R³ components  
 
 ---
 
 ## 开源协议 | License
-本项目采用 **Apache 2.0 License**。  
-- 允许自由使用、修改和商用  
-- 保留专利条款，保护核心通信技术  
-- 开源部分将持续迭代  
-
-This project is licensed under the **Apache 2.0 License**.  
-- Permissive use for research and commercial purposes  
-- Includes patent clauses to protect core communication technology  
-- Open-source scope will be expanded progressively  
+本项目采用 **Apache 2.0 License**。  /This project is licensed under the **Apache 2.0 License**.  
+- 允许自由使用、修改和商用  / Permissive use for research and commercial purposes  
+- 保留专利条款，保护核心通信技术  / Includes patent clauses to protect core communication technology  
+- 开源部分将持续迭代  / Open-source scope will be expanded progressively  
 
 ---
 
 ## 计划与路线图 | Roadmap
-- 🔜 近期开源基础功能实现（协议映射、模块示例）  
-- 🚧 持续扩展支持的协议类型  
-- 🔒 核心通信模块将在未来阶段择机开源  
-
-- 🔜 Near-term release of basic protocol mapping and examples  
-- 🚧 Expand support for more communication protocols  
-- 🔒 Core communication stack will be opened in staged phases  
+- 🔜 近期开源基础功能实现（协议映射、模块示例）  / Near-term release of basic protocol mapping and examples  
+- 🚧 持续扩展支持的协议类型  / Expand support for more communication protocols  
+- 🔒 核心通信模块将在未来阶段择机开源  / Core communication stack will be opened in staged phases  
 
 ---
 
